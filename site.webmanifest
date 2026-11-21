@@ -1,0 +1,16 @@
+{
+  "name": "Clash Arcade Guide",
+  "short_name": "Clash Arcade",
+  "description": "Independent Clash Casino guide for login, wallet, Juwa777 games, and FAQ. 18+.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#0c0916",
+  "theme_color": "#0c0916",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

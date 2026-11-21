@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Clash Arcade">
+  <rect width="64" height="64" rx="12" fill="#101321"/>
+  <path fill="#faffaa" d="M23 9h31l4 5-3 11H42l1-4H30l-4 4-4 15 3 3h13l2-4h12l-3 10-7 6H12l-5-7 8-31z"/>
+  <path fill="#bbb0ff" d="M31 26v12l10-6z"/>
+</svg>
