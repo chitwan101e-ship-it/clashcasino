@@ -1,84 +1,327 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://clashcasino.xyz/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://clashcasino.xyz/games.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://clashcasino.xyz/blog.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://clashcasino.xyz/getting-started.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://clashcasino.xyz/wallet.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://clashcasino.xyz/faq.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/juwa.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/juwa-covers.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/snow-crystal-wilds.png</image:loc>
+      <image:title>Snow Crystal Wilds</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/reels-and-wheels.png</image:loc>
+      <image:title>Reels &amp; Wheels XL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/drakon-sevens.png</image:loc>
+      <image:title>Drakon Sevens</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/pearl-diver-2.png</image:loc>
+      <image:title>Pearl Diver 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/lucky-fire-blitz.png</image:loc>
+      <image:title>Lucky Fire Blitz</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/texas-tea.png</image:loc>
+      <image:title>Texas Tea</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/cash-cow-bonus-wheel.png</image:loc>
+      <image:title>Cash Cow Bonus Wheel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/diamond-wild-reels.png</image:loc>
+      <image:title>Diamond Wild Reels</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/money-rain.png</image:loc>
+      <image:title>Money Rain</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/tricolore-7s.png</image:loc>
+      <image:title>Tricolore 7's</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/mighty-sticky-credits.png</image:loc>
+      <image:title>Mighty Sticky Credits</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/magic-wheel-7s.png</image:loc>
+      <image:title>Magic Wheel 7s</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/bank-boom.png</image:loc>
+      <image:title>Bank Boom</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/terrific-tiger-coin-combo.png</image:loc>
+      <image:title>Terrific Tiger Coin Combo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/hot-spot-multipliers.png</image:loc>
+      <image:title>Hot Spot Multipliers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/45-president.png</image:loc>
+      <image:title>45 President</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/7-burning-hot.png</image:loc>
+      <image:title>7 Burning HOT</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/7-crystal-clovers.png</image:loc>
+      <image:title>7 Crystal Clovers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/777-jackpot-inferno.png</image:loc>
+      <image:title>777 Jackpot Inferno</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/777-lucky.png</image:loc>
+      <image:title>777 Lucky</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/big-bass-bonzana.png</image:loc>
+      <image:title>Big Bass Bonzana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/black-white-double.png</image:loc>
+      <image:title>Black &amp; White Double</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/bonus-hot-7-s.png</image:loc>
+      <image:title>Bonus Hot 7's</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/buffalo-keno.png</image:loc>
+      <image:title>Buffalo Keno</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/cash-cow.png</image:loc>
+      <image:title>Cash Cow</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/cash-zone.png</image:loc>
+      <image:title>Cash Zone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/cherry-valentine.png</image:loc>
+      <image:title>Cherry Valentine</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/deep-sea-predator.png</image:loc>
+      <image:title>Deep Sea Predator</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/deep-sea.png</image:loc>
+      <image:title>Deep Sea</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/diamond-riches.png</image:loc>
+      <image:title>Diamond Riches</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/dragon-treasure.png</image:loc>
+      <image:title>Dragon Treasure</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/epic-summer.png</image:loc>
+      <image:title>Epic Summer</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/epic-vault.png</image:loc>
+      <image:title>Epic Vault</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/farm-life.png</image:loc>
+      <image:title>Farm Life</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/fortune-lion.png</image:loc>
+      <image:title>Fortune Lion</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/fruit-mary.png</image:loc>
+      <image:title>Fruit Mary</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/glitz.png</image:loc>
+      <image:title>Glitz</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/happy-fishing.png</image:loc>
+      <image:title>Happy Fishing</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/hex-gems.png</image:loc>
+      <image:title>Hex Gems</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/hexa-keno.png</image:loc>
+      <image:title>Hexa Keno</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/huge-cash.png</image:loc>
+      <image:title>Huge Cash</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/king-kong-s-rampage.png</image:loc>
+      <image:title>King Kong's Rampage</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/life-of-luxury.png</image:loc>
+      <image:title>Life of Luxury</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/loteria-don.png</image:loc>
+      <image:title>Loteria Don</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/mega-money-machine.png</image:loc>
+      <image:title>Mega Money Machine</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/megaball-deluxe.png</image:loc>
+      <image:title>Megaball Deluxe</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/megs-10x-pay.png</image:loc>
+      <image:title>Megs 10x Pay</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/moolah-bingo.png</image:loc>
+      <image:title>Moolah Bingo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/oh-my-girls.png</image:loc>
+      <image:title>Oh my Girls</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/perfect-purple-jackpots.png</image:loc>
+      <image:title>Perfect Purple Jackpots</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/rainbow-riches.png</image:loc>
+      <image:title>Rainbow Riches</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/simple-triple.png</image:loc>
+      <image:title>Simple Triple</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/spin-golden-wheel.png</image:loc>
+      <image:title>Spin Golden Wheel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/super-stars.png</image:loc>
+      <image:title>Super Stars</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/superball-keno.png</image:loc>
+      <image:title>Superball Keno</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/wild-royale-gold.png</image:loc>
+      <image:title>Wild Royale Gold</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://clashcasino.xyz/art/wild-west.png</image:loc>
+      <image:title>Wild West</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/juwa2.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/fire-kirin.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/game-vault.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/orion-stars.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/milky-way.html</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clashcasino.xyz/worlds/river-sweeps.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://clashcasino.xyz/terms.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://clashcasino.xyz/privacy.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/juwa.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/juwa-covers.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/juwa2.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/fire-kirin.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/orion-stars.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/river-sweeps.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/milky-way.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://clashcasino.xyz/worlds/game-vault.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.3</priority>
   </url>
 </urlset>

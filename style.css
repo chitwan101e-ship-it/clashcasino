@@ -277,6 +277,7 @@ h3{font-size:1.45rem;margin-bottom:.55rem}
   padding:.45rem .8rem;
 }
 #cover-count,#faq-count,#gallery-empty{color:var(--muted);margin:1rem 0}
+.section > p{color:var(--muted);max-width:68ch;margin:0 0 1.2rem;line-height:1.6}
 .game-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,190px),1fr));gap:1rem}
 .game-grid article{
   cursor:pointer;
@@ -470,6 +471,10 @@ body::before{display:none}
 .article-shell{padding-top:2rem;padding-bottom:4rem}
 .back-link{display:inline-block;margin-bottom:1.1rem;color:var(--link);text-decoration:none}
 .back-link:hover{text-decoration:underline}
+.crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem;margin-bottom:1.1rem;color:var(--muted);font-size:.92rem}
+.crumbs a{color:var(--link);text-decoration:none}
+.crumbs a:hover{text-decoration:underline}
+.crumbs [aria-current="page"]{color:var(--ink)}
 .article-hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:2rem;align-items:center;padding-block:1rem 2.5rem;border-bottom:1px solid var(--line);animation:arrive .45s ease-out both}
 .article-hero h1{font-size:clamp(2.6rem,6vw,5rem)}
 .article-hero .eyebrow{color:var(--accent)}
@@ -649,10 +654,12 @@ body::before{display:none}
 main a.text-link,
 main a.article-more,
 main a.back-link,
+main .crumbs a,
 main .section-title a,
 main .guide-panel a,
 main .read-on a,
 main .article-body a,
+main .guide-block a,
 main .faq-list a,
 main .format-intro a,
 main .setup-row a,
@@ -664,10 +671,12 @@ main .landing-section a:not(.button):not(.world-card):not(.picture-story):not(.c
 main a.text-link:visited,
 main a.article-more:visited,
 main a.back-link:visited,
+main .crumbs a:visited,
 main .section-title a:visited,
 main .guide-panel a:visited,
 main .read-on a:visited,
 main .article-body a:visited,
+main .guide-block a:visited,
 main .faq-list a:visited,
 main .format-intro a:visited,
 main .setup-row a:visited,
@@ -677,10 +686,12 @@ main .collection-feature a:visited {
 main a.text-link:hover,
 main a.article-more:hover,
 main a.back-link:hover,
+main .crumbs a:hover,
 main .section-title a:hover,
 main .guide-panel a:hover,
 main .read-on a:hover,
 main .article-body a:hover,
+main .guide-block a:hover,
 main .faq-list a:hover {
   color:#d8d6ff;
   text-decoration-color:#b0aeff;
